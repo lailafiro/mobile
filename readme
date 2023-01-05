@@ -1,0 +1,4 @@
+Materi Hari ini : Istilah dan perintah dasar Git
+Git Repository : media penyimpanan file proyek di dalam git server
+Git Branch : percabangan untuk versi baru dari proyek repository
+Git Fork : penyalinan dari repository orang/organisasi lain, lalu menyimpannya didalam repository Git sendiri
