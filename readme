@@ -2,3 +2,6 @@ Materi Hari ini : Istilah dan perintah dasar Git
 Git Repository : media penyimpanan file proyek di dalam git server
 Git Branch : percabangan untuk versi baru dari proyek repository
 Git Fork : penyalinan dari repository orang/organisasi lain, lalu menyimpannya didalam repository Git sendiri
+Git Clone : mengambil sebuah repository dan menyimpannya pada direktori lokal
+Git commit cuplikan perubahan (snapshot) dari repository anda pada waktu tertentu
+git push : mengirim hasil dari perubahan file yang dilakukan ke dalam repository server
